@@ -1,6 +1,8 @@
 eBot-CSGO
 ==============
 
+[![Join the chat at https://gitter.im/Moondarker/eBot-CSGO](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Moondarker/eBot-CSGO?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 The eBot is a full managed server-bot written in PHP and nodeJS. eBot features easy match creation and tons of player and matchstats. Once it's setup, using the eBot is simple and fast.
 
 **This tools use:**
